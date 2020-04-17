@@ -17,7 +17,7 @@ O aplicativo deve ter essa funcionalidade:
 
 - usar a câmera para tirar uma foto, ela a carrega para o servidor
 - listar nomes de arquivo de fotos do servidor
--- clique em um nome de arquivo de foto na lista para ver a foto existente
+- clique em um nome de arquivo de foto na lista para ver a foto existente
 
 
 
