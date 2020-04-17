@@ -1,0 +1,16 @@
+package com.testedeepersystems.view;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+
+import com.testedeepersystems.R;
+
+public class ListarFotoActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_listar_foto);
+    }
+}
