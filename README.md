@@ -21,4 +21,6 @@ O aplicativo deve ter essa funcionalidade:
 
 
 
-Porém não consegui fazer os requisitos da parte do servidor, mais fiz o servidor... Está no zip: TesteDeeperSystemsWEBSERVICE
+Porém não consegui fazer os requisitos da parte do servidor, mais fiz o servidor... 
+O apk é o arquivio: app.release.apk
+O servidor é o zip: TesteDeeperSystemsWEBSERVICE.zip
