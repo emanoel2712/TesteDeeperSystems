@@ -6,4 +6,4 @@ Esse app deveria:
 - listar nomes de arquivo de fotos do servidor
 - clique em um nome de arquivo de foto na lista para ver a foto existente
 
-Porém não consegui fazer esses requisitos do servidor, mais fiz o servidor... Está no zip: TesteDeeperSystemsWebService
+Porém não consegui fazer esses requisitos do servidor, mais fiz o servidor... Está no zip: TesteDeeperSystemsWEBSERVICE
