@@ -20,4 +20,4 @@ O aplicativo deve ter essa funcionalidade:
 -- clique em um nome de arquivo de foto na lista para ver a foto existente
 
 
-Porém não consegui fazer os requisitos da parte do servidor, mais fiz o servidor... Está no zip: TesteDeeperSystemsWEBSERVICE
+# Porém não consegui fazer os requisitos da parte do servidor, mais fiz o servidor... Está no zip: TesteDeeperSystemsWEBSERVICE
